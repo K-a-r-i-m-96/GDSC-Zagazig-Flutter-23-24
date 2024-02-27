@@ -1,0 +1,1 @@
+/*Answer : (b) map applies a function to each element, while forEach executes a statement */
