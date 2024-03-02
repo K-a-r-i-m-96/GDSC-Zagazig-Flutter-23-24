@@ -1,0 +1,1 @@
+//Answer : C) By using the ‘with’ keyword
