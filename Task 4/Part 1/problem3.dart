@@ -1,0 +1,1 @@
+//Answer : a) The ability for objects of different classes to respond to the same method call in different ways.
