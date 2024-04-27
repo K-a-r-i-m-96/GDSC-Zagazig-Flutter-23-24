@@ -1,0 +1,1 @@
+//answer : B) To create a fixed-size box.

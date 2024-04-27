@@ -1,0 +1,1 @@
+//answer : A) To shrink the ListView widget to fit its children's size.
